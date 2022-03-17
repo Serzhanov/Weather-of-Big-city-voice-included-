@@ -4,7 +4,7 @@ A little bit code with tensorflow and some voice packages on python
 #Simple widow with voice weather prediction.
 Using requests to get the weather from https://api.openweathermap.org and working with Json
 
-#To use you hae install some packages 
+#To use you must install these packages :
 Tktiner
 speech_recognition
 requests
